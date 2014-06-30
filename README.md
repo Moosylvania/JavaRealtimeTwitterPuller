@@ -12,7 +12,9 @@ Java Application utilizing Twitters HBC to pull in real time content.
 1. Clone repository to your server
 2. Create an application on http://dev.twitter.com and store your oauth keys
 3. Run the command >
+
         mvn install
+        
 4. This will execute and pull all required java dependencies.
 
 ## Execution of JavaRealtimeTwitterPuller
